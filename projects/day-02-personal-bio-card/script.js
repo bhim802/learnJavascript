@@ -13,10 +13,10 @@ const _name = "prince Senboo";
 const _age = 100;
 let _city = "Lyndell";
 const _learning = true;
-// bonuses
+//! bonuses
 const futureJob = null;
-const birthYear = 1999; // if i try to change the number, it will be error TypeError: Assignment to constant variable.
-// birthYear = 2077; 
+const birthYear = 1999; //! if i try to change the number, it will be error TypeError: Assignment to constant variable.
+//! birthYear = 2077; 
 
 console.log(typeof  _name);
 console.log(typeof  _age);

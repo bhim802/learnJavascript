@@ -7,5 +7,5 @@
 console.log("senboo");
 console.log("i like drawings.");
 console.log("I am learning JavaScript with a 20 day course.");
-// new Date() creates a date object with the current date and time
+//! new Date() creates a date object with the current date and time
 console.log("this date", new Date());
